@@ -149,10 +149,10 @@ X_n \dist \distNorm(\hmu, \hSigma)
 ```
 and to get the numbered version of these, just insert an `n` :
 ```latex
-\bnthm ... \enthm  % unnumbered theorem
-\bnlem ... \enlem  % unnumbered lemma
-\bnprop ... \enprop  % unnumbered proposition
-\bncor ... \encor  % unnumbered corollary
+\bnthm ... \enthm  % numbered theorem
+\bnlem ... \enlem  % numbered lemma
+\bnprop ... \enprop  % numbered proposition
+\bncor ... \encor  % numbered corollary
 ```
 
 You can create a proof block below a result statement using
